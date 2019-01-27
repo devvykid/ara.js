@@ -11,10 +11,14 @@
 `(~)` - 개발 중  
 `(X)` - 개발 예정  
 
-| 기능 | ara.js | ara-rest | 비고|
-|---|:---:|:---:|---|
-| 단순 응답 | O | - |  | 
-| 급식 | ! | ! | ara.js json 호출방식 변경, ara-rest 속도 개선 |
+| 기능 | ara.js | ara-rest | ara-android | 비고 |
+|---|:---:|:---:|:---:|---|
+| 단순 응답 | O | - | - |  | 
+| 급식 | ! | ! | - | 서버 속도 개선 필요 |
+| 실시간 검색어 | X | X | - |  |
+| 날씨 | ! | ! | - | json 수정 필요 |
+| 이미지 인식 | X | X | X
+
 # Arabot | 아라봇 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   
 ## 1. 아라봇은?
